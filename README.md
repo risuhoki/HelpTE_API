@@ -12,4 +12,4 @@ Existem outras  funcionalidades que o Microsoft Azure oferece de computação em
 
 ## TOGAF
 
-![image](https://github.com/risuhoki/HelpTE_API/blob/main/TOGAF.png?raw=true)
+![TOGAF](https://github.com/risuhoki/HelpTE_API/blob/main/TOGAF.png?raw=true)
