@@ -8,7 +8,7 @@ Existem outras  funcionalidades que o Microsoft Azure oferece de computação em
 
 ## Funcionamento da API em Flask
 
-![API_FLASK]()
+![API_FLASK](https://github.com/risuhoki/HelpTE_API/blob/main/API_FLASK.png?raw=true)
 
 ## TOGAF
 
