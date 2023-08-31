@@ -8,8 +8,8 @@ Existem outras  funcionalidades que o Microsoft Azure oferece de computação em
 
 ## Vídeo
 
-[![video]()](https://www.youtube.com/watch?v=g6m1TLmUnws&ab_channel=matheusgomesmontemurro)
+[![video](https://github.com/risuhoki/HelpTE_API/blob/main/helpte.png?raw=true)](https://www.youtube.com/watch?v=g6m1TLmUnws&ab_channel=matheusgomesmontemurro)
 
 ## TOGAF
 
-![TOGAF](![image](https://github.com/risuhoki/HelpTE_API/blob/main/TOGAF.png?raw=true)
+![TOGAF](https://github.com/risuhoki/HelpTE_API/blob/main/TOGAF.png?raw=true)
