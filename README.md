@@ -18,10 +18,10 @@ Existem outras  funcionalidades que o Microsoft Azure oferece de computação em
 
 ![API_FLASK](https://github.com/risuhoki/HelpTE_API/blob/main/API_FLASK.png?raw=true)
 
-## TOGAF
-
-![TOGAF](https://github.com/risuhoki/HelpTE_API/blob/main/TOGAF.png?raw=true)
-
 ## Vídeo
 
 [![video](https://github.com/risuhoki/HelpTE_API/blob/main/helpte.png?raw=true)](https://www.youtube.com/watch?v=g6m1TLmUnws&ab_channel=matheusgomesmontemurro)
+
+## TOGAF
+
+![TOGAF](https://github.com/risuhoki/HelpTE_API/blob/main/TOGAF.png?raw=true)
